@@ -1,0 +1,12 @@
+{
+    "name": "thomasbeaujean/getsetmethodforeignnormalizer",
+    "description": "the normalizer for object ORM and the foreign ids",
+    "version": "dev-master",
+    "require-dev": {
+        "symfony/class-loader": "2.3.*"
+    },
+    "autoload": {
+        "psr-0": { "thomasbeaujean\\Component": "" }
+    },
+    "target-dir": "thomasbeaujean/Component"
+}
